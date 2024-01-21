@@ -3,52 +3,52 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
 
 ## Mechanics
  - Rumble support: Rumbles for taking a large percentage of damage, rumbles for the bounces of the pokeball hitting the ground as well as for each shake, rumbles for several legendary cutscenes, rumbles for encountering a shiny, rumbles for each bite during fishing, rumbles for the movements of a Pokémon egg when viewing its status as well as for the cracks when it hatches, maybe even rumbles for certain move animations if they deal a good percentage of damage.
- - Online connectivity through the Mobile GB adapter and/or the Wii: GTS, online battles and trades
- - Out of battle item usage of Poké Balls could be changing the caught ball of a Pokémon
+ - Online connectivity through the Mobile GB adapter and/or the Wii: GTS, online battles and trades (Mister E)
+ - Out of battle item usage of Poké Balls could be changing the caught ball of a Pokémon (SDH)
    - **This isn't feasible due to legality constraints**
- - Fossils will no longer be Key Items and will be replenishable (rock smash rocks maybe?)
- - The Ruby and Sapphire (key items) also determine which origin game FRLG mons get flagged as, but with next-level, that feature will be removed and the items will either be given a new story purpose or won't be obtainable.
- - H-power revamping: Unlock the h-powers storywise, better explanation at how they are gained, etc.
- - Hatching: Have a new hatching path (treadmill connecting to itself). Have an option to send to the incubator. Have an more informative way to see how long an egg remains to be hatched. Also, when picking up eggs: withdraw to PC as an option, send to incubator as an option too.
- - Re-do berry trees mechanic: add the pots from HGSS (or a map where to plant and grow more berries?)
+ - Fossils will no longer be Key Items and will be replenishable (rock smash rocks maybe?) (CB)
+ - The Ruby and Sapphire (key items) also determine which origin game FRLG mons get flagged as, but with next-level, that feature will be removed and the items will either be given a new story purpose or won't be obtainable. (CB)
+ - H-power revamping: Unlock the h-powers storywise, better explanation at how they are gained, etc. (CB, Soulart)
+ - Hatching: Have a new hatching path (treadmill connecting to itself). Have an option to send to the incubator. Have an more informative way to see how long an egg remains to be hatched. Also, when picking up eggs: withdraw to PC as an option, send to incubator as an option too. (CB, Soulart)
+ - Re-do berry trees mechanic: add the pots from HGSS (Soulart) (or a map where to plant and grow more berries? (evZ))
    - **In addition to what's listed, Mulch will be added like in Gens 4 and 6**
- - Re-do pokeblocks and contest stats?
+ - Re-do pokeblocks and contest stats? (evZ)
    - **Some pre-made Pokéblocks will be available for purchase like in Platinum**
- - Shiny hunting mechanics, CC SRAM chaining? something like that?
+ - Shiny hunting mechanics, CC SRAM chaining? something like that? (Mr E, DotMatrixGirl, evZ)
    - **Poké Radar will be introduced in some fashion**
- - FRLG fishing system: exclamation mark
- - Another rod that allows to catch better pokemon but has a minigame where the longer the pressing minigame lasts/the more complex it is, the more likely it is to find a high IV/shiny/tutor-moves mon. (If the biting minigame thingy escalated with the level and/or IV total sum of the mon that you hooked with the rod)
+ - FRLG fishing system: exclamation mark (Soulart, evZ, Jaizu)
+ - Another rod that allows to catch better pokemon but has a minigame where the longer the pressing minigame lasts/the more complex it is, the more likely it is to find a high IV/shiny/tutor-moves mon. (If the biting minigame thingy escalated with the level and/or IV total sum of the mon that you hooked with the rod) (evZ)
    - **Having only a single Rod that accesses all three encounter tables might be neat**
- - RNG history
- - De-activate powers in the facilities
- - Re-work pickup ability
- - Deoxys mechanic
+ - RNG history (CB)
+ - De-activate powers in the facilities (Jaizu, CB)
+ - Re-work pickup ability (CB)
+ - Deoxys mechanic (CB)
    - **Is this in relation to forms?  If so, I have a mostly complete form system I've yet to publish** *Yes I included this here because you mentioned it in the chat*
 
 ## Bringing back/expanding from later gens etc:
- - Bring back/add Gen2 balls. They would behave as intended and turn into normal pokeballs upon transferring
- - Have an npc check/change the ball they were caught in for you. I think CC has something similar (not for balls, for other stuff) and radical red does too (for aesthetic reasons). (Jaizu said: Making a npc for it doesn't guarantee that people will use it or know about it; We can do better)
+ - Bring back/add Gen2 balls. They would behave as intended and turn into normal pokeballs upon transferring (CB)
+ - Have an npc check/change the ball they were caught in for you. I think CC has something similar (not for balls, for other stuff) and radical red does too (for aesthetic reasons). (Jaizu said: Making a npc for it doesn't guarantee that people will use it or know about it; We can do better) (evZ)
    - **I agree with Jaizu on this and the system above that is currently WIP will probably stay**
 
 ## Maps
- - GBA Orre maps (at least colosseums where to obtain the shadow mons already purified).
+ - GBA Orre maps (at least colosseums where to obtain the shadow mons already purified). (DotMatrixGirl, hyo)
    - **Orre maps would be very nice, but would probably be lower priority than possible Johto maps (although it's a smaller region, so would require less maps.  It'd probably require more custom tiles, though)**
- - Expanded maps: Something that I also like a lot are expanded areas of an already-existing region. Hoenn has so much interesting orography and coastline I've always thought of how some of those places would look like. Nothing too crazy, but just more areas with walkable paths and interconnecting the map; perhaps one or two static encounters and things like that. IIRC some hacks like Altered Emerald have played with this idea and there's been a bunch of posts on reddit of people toying with the maps. I find it very endearing, expanding the landscape and making more places that are interesting to explore 
+ - Expanded maps: Something that I also like a lot are expanded areas of an already-existing region. Hoenn has so much interesting orography and coastline I've always thought of how some of those places would look like. Nothing too crazy, but just more areas with walkable paths and interconnecting the map; perhaps one or two static encounters and things like that. IIRC some hacks like Altered Emerald have played with this idea and there's been a bunch of posts on reddit of people toying with the maps. I find it very endearing, expanding the landscape and making more places that are interesting to explore (evZ) 
    - **At the very least, I would like to edit Hoenn maps based off of ORAS and Kanto based off of HGSS.  OC modifiations wouldn't be undesirable, but owuld probably require someone to step up to help from a design perspective as I feel that I'm going to struggle just to the one new island I want to introduce**
 
 ## Visual style and aesthetics
- - Gen 3 summary screen or Gen IV style summary screen
+ - Gen 3 summary screen or Gen IV style summary screen 
  - Gen 3 bag UI or Gen IV bag UI
- - Toggle FLRG-revamped sprites/sprites from all gens/original sprites (during compilation or in-game?)
- - What if we got rid of the "Exit" option in the menu and put the clock in the bottom right corner? I  was thinking a separate window just bumping up to the main one, if it'd even fit.
- - Use narrow font in interfaces as much as we can to feet necessary info without cluttering/cramping up everything?
- - Sprite shadows in the overworld (from EC)
+ - Toggle FLRG-revamped sprites/sprites from all gens/original sprites (during compilation or in-game?) (evZ)
+ - What if we got rid of the "Exit" option in the menu and put the clock in the bottom right corner? I  was thinking a separate window just bumping up to the main one, if it'd even fit. (Jaizu)
+ - Use narrow font in interfaces as much as we can to fit necessary info without cluttering/cramping up everything?
+ - Sprite shadows in the overworld (from EC) (Jaizu, Fender)
 
 ## Minor fixes and upgrades
- - Summary option for Daycare mons
- - Numerical countdown on eggs is unlocked like the IV/EV viewer
- - Visual indicator for Feebas (some tile animation or sparkle or something)
- - Tradeback guy like in CC (or better explanation of how to trigger trade evolutions).
+ - Summary option for Daycare mons (evZ)
+ - Numerical countdown on eggs is unlocked like the IV/EV viewer (evZ, CB)
+ - Visual indicator for Feebas (some tile animation or sparkle or something) (evZ)
+ - Tradeback guy like in CC (or better explanation of how to trigger trade evolutions) (evZ)
 
 
 ## Additional content
@@ -60,11 +60,11 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
    - **The progression will most likely be the new/OC island for nl001 with a staggered release of Sevii islands and then Kanto**
  - Add Johto? if so, what should the content be like?
    - **If we end up at this point, depending on the Kanto and Sevii stories introduced (and assuming Johto will be forced to be after Kanto), we'd likely be at a point in the timeline ~6 months before HGSS.  I don't think there is anything concrete about this time in canon, so we'd probably have a decent amount of freedom**
- - Add ADV OU/UU rosters to Battle Frontier facilities/E4 rematch?
+ - Add ADV OU/UU rosters to Battle Frontier facilities/E4 rematch? (ev)
  - e-Reader card collecting mechanic to get e-Reader berries and content in-game without the need for extra hardware.
- - Add all e-Reader berries; add all trainers from trainer hill
- - More encounter types: shaking grass, dust clouds, looming shadows, rippling water like BW?
- - More facilities: PWT, LT surge's challenge but with dolls. A "Randomized Battle" facility. An invese type chart facility.
+ - Add all e-Reader berries; add all trainers from trainer hill 
+ - More encounter types: shaking grass, dust clouds, looming shadows, rippling water like BW? (evZ)
+ - More facilities: PWT (SHD), LT surge's gym gimmick but with dolls instead of trashcans (Jaizu, evZ, I know it was somebody else too). A "Randomized Battle" facility (PKZB). An invese type chart facility (RaTT).
  - Add the 100 trainers challenge.
  - Add overworld sprites from all pokemon (HGSS, PMD?)
    - **This unfortunately probably won't happen unless someone does a full set of Gen 3 styled OW sprites.  Maybe we could do something like Amity Square though if a small collection of sprites are put together?**
@@ -100,14 +100,14 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
    - **PokéNav will eventually be completely removed.  Vs. Seeker will be a standalone item, Condition and Ribbon screens will be integrated into the Summary Screen, and the goal is to replace the rest with the Pokégear (with additional features such as the radio and hopefully some custom app cards like showing Wireless Adapter activity or some based on Pokétch apps)** 
  - DexNav-like thing?
  - Allow for battle intros and exits to be fast as well the feature, or change, that makes battle animations and damage animations/updates? not take as long as normal battles (very low priority bc Jaizu said they'd rather not have them in a game that is focused in a more immersive experience, I kind of get it too).
- - Could something be worked/figured out to do the reverse (from Heliodor to Emerald)? (Citrus said: It should be fairly doable, depending on how destructive the primary conversion is (based on what my finalized spec of the new save file ends up being), but I could probably do it as a secret menu function or something)
- - infrarred support: I'll be hyped if I can get any sort of functionality working in Heliodor, but my goals in order of decreasing perceived feasibility are GSC Mystery Gift, Pokémon Pikachu 2 GS Mystery Gift (probably the same protocol), Pokéwalker, and o3DS NFC reader (from Citrus)
- - More hardware support: (from Citrus: Everything not already supported are pretty long-shot goals: utilizing the infrared adapter to communicate with Gen 2 Mystery Gift (GSC and/or VC GSC and/or Pokémon Pikachu 2 GS, Pokéwalker, and o3DS NFC reader/writer; Game Boy Printer support, and Mobile Adapter GB.  Again, these are all long-shots, so it's entirely possible none of these ever come to fruition.)
+ - Could something be worked/figured out to do the reverse save conversion (from Heliodor to Emerald)? (Citrus said: It should be fairly doable, depending on how destructive the primary conversion is (based on what my finalized spec of the new save file ends up being), but I could probably do it as a secret menu function or something)
+ - infrarred support: I'll be hyped if I can get any sort of functionality working in Heliodor, but my goals in order of decreasing perceived feasibility are GSC Mystery Gift, Pokémon Pikachu 2 GS Mystery Gift (probably the same protocol), Pokéwalker, and o3DS NFC reader (CB)
+ - More hardware support: (CB: Everything not already supported are pretty long-shot goals: utilizing the infrared adapter to communicate with Gen 2 Mystery Gift (GSC and/or VC GSC and/or Pokémon Pikachu 2 GS, Pokéwalker, and o3DS NFC reader/writer; Game Boy Printer support, and Mobile Adapter GB.  Again, these are all long-shots, so it's entirely possible none of these ever come to fruition.)
 
   
   
   
-## Things I have thought (not necessarily for Heliodor but feel free to draw from here)
+## Random things I (evZ) have thought (not necessarily for Heliodor but feel free to draw from here)
 
  - "Blind" switch: You defeat your opponent's mon, they are about to send another one, and then you are asked if you want to switch (without letting you know the opponent's mon). And vice versa (they faint a mon of yours, you send another one, and they do send another one. It could easily transition to "best of 3 1 vs. 1 battles".
  - More precise edits to some palettes with the day/night system. e.g. the clouds in Route 119 acquire a pink/orangey/purple-ish tone in the afternoon/evening rather than dulling their blue hues.
@@ -143,7 +143,7 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
    - **We are pretty restrained here due to Record Mixing, but I do want to see exactly how far we can push it to allow more customization**
  - Some DLC for the wild beasts like they did with the unofficial e-reader cards and scripting?
  - Expand movesets, legality checker for later transferring
- - Rebalance the mon stats (toggle on/off or during compilation). Where to take them from though: Altered Emerald? Hoenn Gaiden (unofficial Smogon league)?
+ - Rebalance the mon stats (toggle on/off or during compilation). Where to take them from though: Altered Emerald? Kaizo? Hoenn Gaiden?
  - If maps are expanded: Hidden grottos with certified ID for second ability after transferring to BW? (or whatever thing is calculated for a mon to have a hidden ability in later gens?)
    - **This isn't doable as only Gen 5+ mons may have HIdden Abilities; no past gen transfers gain the ability later (without an Ability Patch**
  - Improve Wally's quest (nothing mandatory that steers you away from the main plot, but maybe have him appear in Trainer Tower after beating Flannery, to "race you to the top" so you can see him getting better at battles). Also have him participate in the battle tents during the game.

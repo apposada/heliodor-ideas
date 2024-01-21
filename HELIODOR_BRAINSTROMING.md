@@ -43,6 +43,7 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
  - What if we got rid of the "Exit" option in the menu and put the clock in the bottom right corner? I  was thinking a separate window just bumping up to the main one, if it'd even fit. (Jaizu)
  - Use narrow font in interfaces as much as we can to fit necessary info without cluttering/cramping up everything?
  - Sprite shadows in the overworld (from EC) (Jaizu, Fender)
+ - Abandoned Ship tiles (from Alistair) (MoriyaLuna)
 
 ## Minor fixes and upgrades
  - Summary option for Daycare mons (evZ)
@@ -76,7 +77,7 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
  - Hyper Training
  - Outbreaks in Kanto
  - Gym leader rematches: having each rematch beaten change the respective gym leader badge's color on the trainer card. On vanilla emerald the badges are gray/silver, so I guess having like: bronze, gold and ?? for the others. (Ihridan) (CB: Something like that might be cool if we have a record book like mentioned earlier and we could have a section to stamp in rematches)
- - 
+ - Bottle caps
 
 ## Other 
  - Flags will be reserved for new trainers in Kanto and Sevii, classes/titles will be unlockable for the Trainer Card, inventory is expanded, there will be Medals like in Gens 5 and 6, a few more berry trees will be added in the form of Berry Pots, storage for Apricorns, Pal Pad, outfits, e-Card collecting, and space will be reserved in case I ever get Pokéwalker and/or GTS functional.  There's probably some other stuff I can't think of right now too
@@ -84,6 +85,12 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
    - **I'm not terribly interested in doing this myself, but if anyone attempts to, I'm willing to offer assistance if there are roadblocks**
  - Spread out tms around kanto and sevii? (is sevii planned to be in this game at all?)
  - Rework lottery prizes (one only needs one EXP share in this game for example?)
+ - Make a documentation listing changes, features, additions, etc.
+ - Make a gameplay documentation listing items, encounters etc. (Ideally making parsing scripts that parse through the repo and collect info from the actual code).
+ - Providing ways to get all the gen 3 distribution mons ( https://www.youtube.com/watch?v=NKBb-YS34wg)
+ - State more of these changes in-game (through NPCs, interfaces, etc.)
+ - Release eggs (DMG)
+ 
 
 ## Battle-related mechanics
  - Add High IV indication
@@ -92,6 +99,8 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
   - Summarise exp gaining: "and the rest of the party also gained Exp."
   - Changing some animations/sound effects of some iconic moves, such as psychic or hyper beam.
   - Transforming the Open Level option of the Battle Frontier in an autolevel-like mode. Like in newer games where mons are lowered/raised to a given level and their stats are re-calculated. It makes the preparation for the battle frontier a bit less tedious I'd say. (Citrus: I've considered it (at least leveling up; leveling down has some potential for illegal ribbons) but haven't really looked into it to see how tricky it'd be to implement)(I add: maybe also illegal for some moves?? i.e. some mon knowing a lv50+ move at level 50? would that be considered unfair? Also Dragonite/Tyranitar at lv 50 would cheese the challenge?)
+  - Prevent running away from shiny pokemon (CB; on Oct 22 2022 : "I thought this would be a neat feature to have" )
+  
 
 
 ## Distant things for far off in the future:

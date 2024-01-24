@@ -113,6 +113,21 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
   - Prevent running away from shiny pokemon (CB; on Oct 22 2022 : "I thought this would be a neat feature to have" )
   - Held items replenish: It might be nice to make some consumable held items be given back after battle (evZ: e.g. berries, herbs?)
 
+## PC
+- PC switch: Being able to rearrange the PC menu so the "Move Pokémon" option is the default, although the ability to send a party member to PC to make room for a newly captured Pokémon is something I want to do eventually too
+- PC wallpaper: Ya, this would be for new ones like Emerald Cross has
+- Make the custom wallpaper gimmick more accesible (the baby girl who cannot laugh in Rustboro)
+- Marking: I want to see if we're able to add more Marking stuff for the Storage System like dual colored markings in newer games or the Favorite marking.  I haven't looked at the Marking data, so it may not be doable without allocating more mon data to it.  If that's so, it won't happen as I'd consider it an unacceptable use of a very limited data space
+
+## Battle facilities
+- Battle Tower: I want to port the feature of encountering e-Card trainers.  I poked into it with Richter for Revelation and it should be super trivial. Other opponents like story NPCs would be nice too, similar to Sinnoh
+- Battle Tower level 50: Ya, just making the requirements less strict
+
+## Secret bases
+ - Utility decorations: I'd like to add decorations that have a function to Secret Bases, like a healing machine, Berry Blender, Cable Club entrance, if possible
+ - I would aim at making secret bases a bit more permisive with item decoration, to not count the wooden slabs as items to the total amount of items, and perhaps to allow putting dolls on the floor. But maybe this would be constrained externally for other non-ROMhack players to enjoy your secret base too.
+   - **We are pretty restrained here due to Record Mixing, but I do want to see exactly how far we can push it to allow more customization**
+
 ## Trainer Card and Player info/achievements
  - Classes: Currently, there are a bunch of trainer classes that can be displayed on the Trainer Card, but I still need to add a way to select it, and a system for unlocking them, like once you defeat a Hiker for the first time, you can call yourself a Hiker
  - Record book
@@ -144,6 +159,7 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
 ## Additional content
  - Add Elite 4 rematch with upgraded teams (evZ did some teams a while ago)
  - Add ADV OU/UU rosters to Battle Frontier facilities/E4 rematch? (ev)
+ - e-Card decks: This is just the card collecting mechanic
  - e-Reader card collecting mechanic to get e-Reader berries and content in-game without the need for extra hardware.
  - Add all e-Reader berries; add all trainers from trainer hill 
  - More facilities: Pokemon World Tournament (SHD), LT surge's gym gimmick but with dolls instead of trashcans (Jaizu, evZ, I know it was somebody else too). A "Randomized Battle" facility (PKZB). An invese type chart facility (RaTT). A "best of 3"
@@ -171,6 +187,7 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
    - **I'm not terribly interested in doing this myself, but if anyone attempts to, I'm willing to offer assistance if there are roadblocks**
 
 ## Distant things for far off in the future:
+- Split versions: I want to explore the possibility of splitting Heliodor into two (or three) versions to have version exclusives and potentially a story closer to Ruby and a story closer to Sapphire.  It'd be a bunch of work and I doubt many people would be interested in it, but it's something I don't want to 100% discount
  - Allow for battle intros and exits to be fast as well the feature, or change, that makes battle animations and damage animations/updates? not take as long as normal battles (very low priority bc Jaizu said they'd rather not have them in a game that is focused in a more immersive experience, I kind of get it too).
  - Could something be worked/figured out to do the reverse save conversion (from Heliodor to Emerald)? (Citrus said: It should be fairly doable, depending on how destructive the primary conversion is (based on what my finalized spec of the new save file ends up being), but I could probably do it as a secret menu function or something)
  - Infrarred support: I'll be hyped if I can get any sort of functionality working in Heliodor, but my goals in order of decreasing perceived feasibility are GSC Mystery Gift, Pokémon Pikachu 2 GS Mystery Gift (probably the same protocol), Pokéwalker, and o3DS NFC reader (CB)
@@ -188,8 +205,6 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
    - **This would require a lot of legality work.  I'm not 100% discounting it, but I wouldn't want to start thinking about it for a long time**
  - Include a DS-mode where the game would detect it is running on a Nintendo DS (or NDS emulator), and have some extra functionality only when detected  Like, for example, discounts or some random events being forced out (the lilycove sales, Mirage island, etc.). Or gift mons ready for transferring to GenIV.
    - **I have some rough DS identification code somewhere and eventually, I want to complete this so that GBA, GBP, GBM, NDS, and DSL are all detectable and tallied so players who own different hardware can get something like extra icons for their Trainer Card or something**
- - I would aim at making secret bases a bit more permisive with item decoration, to not count the wooden slabs as items to the total amount of items, and perhaps to allow putting dolls on the floor. But maybe this would be constrained externally for other non-ROMhack players to enjoy your secret base too.
-   - **We are pretty restrained here due to Record Mixing, but I do want to see exactly how far we can push it to allow more customization**
  - Some DLC for the wild beasts like they did with the unofficial e-reader cards and scripting?
  - Expand movesets, legality checker for later transferring?
  - Rebalance the mon stats and learnsets etc. (toggle on/off or during compilation). Where to take them from though: Altered Emerald? Kaizo? Hoenn Gaiden?

@@ -42,6 +42,18 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
    - **This would be a very nice addition at some point**
  - Day/night colouring for outdoor battle backgrounds
  - More backgrounds: shoal cave's ice, mt chimney, mt.pyre, meteor falls, volcano ash route. In order to keep gen3 style, they could be recolors of current ones (evZ)
+ - More NPCs with their own unique sprites (based off official artwork of the games/TCG/anime/manga):
+  - Mr Stone https://bulbapedia.bulbagarden.net/wiki/Mr._Stone
+  - Lanette https://archives.bulbagarden.net/media/upload/thumb/2/29/Lanette_TCG.png/345px-Lanette_TCG.png
+  - Prof Cozmo: https://archives.bulbagarden.net/media/upload/1/13/Professor_Cozmo_Sugimori.png
+  - Mr Briney: https://archives.bulbagarden.net/media/upload/thumb/6/6e/Art_Life_20231012_Mr_Briney.jpg/900px-Art_Life_20231012_Mr_Briney.jpg
+  - Berry Master
+  - Berry Master's wife
+  - Fossil Maniac
+  - Cap. Stern
+  - Rydel
+  - Trick Master
+  - Teala
 
 ## Game Main Menu
  - Mirror either Groudon or Kyogre in the intro so they face opposite directions (currently the two face left. I think it would look better if groudon faces right and kyogre faces left, or vice versa. I think facing opposite directions makes more visual sense as they are enemy counterparts plus it is not visually imbalanced?).
@@ -114,10 +126,17 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
   - Held items replenish: It might be nice to make some consumable held items be given back after battle (evZ: e.g. berries, herbs?)
 
 ## PC
-- PC switch: Being able to rearrange the PC menu so the "Move Pokémon" option is the default, although the ability to send a party member to PC to make room for a newly captured Pokémon is something I want to do eventually too
-- PC wallpaper: Ya, this would be for new ones like Emerald Cross has
-- Make the custom wallpaper gimmick more accesible (the baby girl who cannot laugh in Rustboro)
-- Marking: I want to see if we're able to add more Marking stuff for the Storage System like dual colored markings in newer games or the Favorite marking.  I haven't looked at the Marking data, so it may not be doable without allocating more mon data to it.  If that's so, it won't happen as I'd consider it an unacceptable use of a very limited data space
+ - Revamped PC. Move "Move Pokemon" at the top of the options
+ - Merge "Move Pokemon" and "Move Items" in one (e.g. pressing R swaps between moving mons and moving items).
+ - PC search system? that allows you to search for species, gender, ability, moves (knows/can learn), etc.
+ - Improved multi-select handling mechanics: Allow to move multiple mon at once and deposit them sequentially even if the shape of the free spots in the box does not match the area of selected mons (e.g. you select a square 3x3 mons and bring them over to a box with 8 free spots in a row, not in 3x3 grid. The mons are deposited left to right top to bottom and the remaining one is put in the immediately next spot available on the pc).
+ - Smart option of "Deposit all but this mon" when selecting a mon in the "Deposit" option or when in the party section of the "Move" option.
+ - Is there a better way to organise the PC UI to take the most advantage of the area on the screen? i.e. most of the bottom left area (where the mon (nick)name,level,gender is located) is not really used. Maybe using a smaller font everywhere on the PC would allow to fit in more useful info as nature, ability, IV spread, etc as it is done in later gens (Gen IV and V IIRC)?(evZ)
+ - Being able to send a party member to PC to make room for a newly captured Pokémon
+ - New PC wallpapers like Emerald Cross has
+ - Make the custom wallpaper gimmick more accessible (the baby girl who cannot laugh in Rustboro)
+ - Marking: I want to see if we're able to add more Marking stuff for the Storage System like dual colored markings in newer games or the Favorite marking.  I haven't looked at the Marking data, so it may not be doable without allocating more mon data to it.  If that's so, it won't happen as I'd consider it an unacceptable use of a very limited data space (evZ)
+ - A sort feature would be neat too, but would probably be more work than it's worth.  (CB)
 
 ## Battle facilities
 - Battle Tower: I want to port the feature of encountering e-Card trainers.  I poked into it with Richter for Revelation and it should be super trivial. Other opponents like story NPCs would be nice too, similar to Sinnoh
@@ -187,7 +206,7 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
    - **I'm not terribly interested in doing this myself, but if anyone attempts to, I'm willing to offer assistance if there are roadblocks**
 
 ## Distant things for far off in the future:
-- Split versions: I want to explore the possibility of splitting Heliodor into two (or three) versions to have version exclusives and potentially a story closer to Ruby and a story closer to Sapphire.  It'd be a bunch of work and I doubt many people would be interested in it, but it's something I don't want to 100% discount
+ - Split versions: I want to explore the possibility of splitting Heliodor into two (or three) versions to have version exclusives and potentially a story closer to Ruby and a story closer to Sapphire.  It'd be a bunch of work and I doubt many people would be interested in it, but it's something I don't want to 100% discount
  - Allow for battle intros and exits to be fast as well the feature, or change, that makes battle animations and damage animations/updates? not take as long as normal battles (very low priority bc Jaizu said they'd rather not have them in a game that is focused in a more immersive experience, I kind of get it too).
  - Could something be worked/figured out to do the reverse save conversion (from Heliodor to Emerald)? (Citrus said: It should be fairly doable, depending on how destructive the primary conversion is (based on what my finalized spec of the new save file ends up being), but I could probably do it as a secret menu function or something)
  - Infrarred support: I'll be hyped if I can get any sort of functionality working in Heliodor, but my goals in order of decreasing perceived feasibility are GSC Mystery Gift, Pokémon Pikachu 2 GS Mystery Gift (probably the same protocol), Pokéwalker, and o3DS NFC reader (CB)
@@ -197,7 +216,7 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
  - GBA Orre maps (at least colosseums where to obtain the shadow mons already purified). (DotMatrixGirl, hyo)
    - **Orre maps would be very nice, but would probably be lower priority than possible Johto maps (although it's a smaller region, so would require less maps.  It'd probably require more custom tiles, though)**
 
-## Random things I (evZ) have thought (not necessarily for Heliodor but feel free to draw from here)
+## Random thoughts from evZ (not necessarily for Heliodor but feel free to draw from here)
  - "Blind" switch: You defeat your opponent's mon, they are about to send another one, and then you are asked if you want to switch (without letting you know the opponent's mon). And vice versa (they faint a mon of yours, you send another one, and they do send another one. It could easily transition to "best of 3 1 vs. 1 battles".
  - Different NPCs and stuff happening at night and day. Like in GSC.
  - Visiting Orre's colosseum to battle for the custody of Colo/XD shadow mons, which you get to purify through other mechanics in game (not battling with them etc.). 
@@ -209,3 +228,8 @@ List of ideas/suggestions for Project Heliodor (a legacy expansion pass for Poke
  - Expand movesets, legality checker for later transferring?
  - Rebalance the mon stats and learnsets etc. (toggle on/off or during compilation). Where to take them from though: Altered Emerald? Kaizo? Hoenn Gaiden?
  - Improve some characters' arc/stories: (I) Wally's quest (nothing mandatory that steers you away from the main plot, but maybe have him appear in Trainer Tower after beating Flannery, to "race you to the top" so you can see him getting better at battles). Also have him participate in the battle tents during the game. // (II) The Rival // (III) Steven . Etc.
+ - Wally's quest could be given more content (optional battles and dialogueat battle tents and in trainer tower)
+ - Lanette's sister (from GC Pkmn Box) could make a guest appearance to improve the PC or something like that?
+ - Inver (https://bulbapedia.bulbagarden.net/wiki/Inver) could be the frontier brain of the inverse facility
+ - The Rival could have one or two more appearances (battles) throughout the story. Also their team could be a bit more amped up? Give them the fully evolved starter?
+ - Would it make sense to revisit the mons from contest trainers during contests? 
